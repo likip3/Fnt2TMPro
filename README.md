@@ -1,7 +1,7 @@
 # Fnt2TMPro
 
 Unity Editor tool to convert BMFont `.fnt` bitmap fonts (text or XML) into TextMesh Pro `TMP_FontAsset` using an existing texture atlas.
-Based on https://github.com/napbla/fnt2TMPro but with some improvements. Maybe if that project didn't work for you, then this one might.
+Based on [Napbla's fnt2TMPro](https://github.com/napbla/fnt2TMPro) but with some improvements. Maybe if that project didn't work for you, then this one might.
 ### Features
 - Parse both text and XML `.fnt` formats
 - Map glyphs and metrics to `TMP_FontAsset`
